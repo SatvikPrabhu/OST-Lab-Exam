@@ -13,4 +13,6 @@ You will be asked to enter an number n for which you want to know the final verd
 onec you enter the number you get an output which would either say "n is even" or "n is odd"
 depending on your input
 
+# Example Output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce98fb39-dc50-4466-a479-406487a5fdad" />
 
