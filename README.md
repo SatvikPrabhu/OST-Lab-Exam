@@ -1,7 +1,8 @@
 # OST-Lab-Exam
 This project helps people to check if a number is even or odd which is very helpful if you want to know which number is dvisibe by 2 and which number is not.
 
-#How to run the Code:
+# How to run the Code:
+
 Step1: Clone the Repository on  your pc using the command:
 
 git clone https://github.com/SatvikPrabhu/OST-Lab-Exam.git
